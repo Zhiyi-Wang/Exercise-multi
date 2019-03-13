@@ -3,6 +3,8 @@
 
 ### Zhiyi Wang
 
+### Sorry for my R-Studio itself, there is no way for me to knit to HTML showing the results/pictures.
+
 ---
 title: "Exercise-Multivariate"
 author: "Zhiyi Wang"
